@@ -6,7 +6,7 @@
 #  LICENSE:GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
 #  Copyright (C) α改 @alpha_kai_NET 2012-2013 http://alpha-kai-net.info
 #  ローカルのパスワードのファイルの暗号化めんどくさい・・・ Ω＼ζ°)ﾁｰﾝ
-#  requirements.rbを必ず実行してruby-gmailとgtk2をインストールすること!
+#  必ずgem installでruby-gmailとgtk2をインストールすること!
 # 　五分おきに更新する仕様
 require "gmail"
 require "gtk2"
